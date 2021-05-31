@@ -1,0 +1,40 @@
+Trolley Bag
+SKU
+Title
+Brand
+Type
+Brand Size
+is Standard present on Label
+Brand Colour
+AgeGroup
+Prominent Colour
+Second Prominent Colour
+Third Prominent Colour
+FashionType
+Usage
+Year
+season
+Product Details
+styleNote
+materialCareDescription
+sizeAndFitDescription
+productDisplayName
+tags
+addedDate
+Material
+Laptop Size
+Size
+Number or Main Compartments
+Compartment Closure
+Add-Ons
+Laptop Compartment
+Table Sleeve
+Pattern
+Expandable
+Volume in Litres
+Haul Loop Type
+Number of Handles
+Shoulder Strap Type
+Padded Shoulder Strap
+Water Resistance
+Features

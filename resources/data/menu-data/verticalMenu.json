@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "name": "Dashboard",
+      "icon": "home",
+      "url": "dashboard",
+      "slug": "dashboard"
+    },
+
+    {
+      "navheader": "Brands",
+      "slug": ""
+    },
+
+    {
+      "name": "Brands",
+      "icon": "home",
+      "url": "brands",
+      "slug": "brands"
+    },
+    
+    {
+      "navheader": "Vendors",
+      "slug": ""
+    },
+
+    {
+      "name": "Vendors",
+      "icon": "home",
+      "url": "vendorss",
+      "slug": "vendorss"
+    },
+
+    {
+      "navheader": "Purchase Orders",
+      "slug": ""
+    },
+
+    {
+      "name": "Purchase Orders",
+      "icon": "home",
+      "url": "purchase_orders",
+      "slug": "purchase_orders"
+    }
+  ]
+}

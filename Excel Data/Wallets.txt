@@ -1,0 +1,61 @@
+Wallets
+SKU
+Title
+Brand
+Type
+Brand Size
+Standard Size
+is Standard Size present on Label
+Brand Colour
+AgeGroup
+Prominent Colour
+Second Prominent Colour
+Third Prominent Colour
+FashionType
+Usage
+Year
+season
+Material
+Type
+Closure
+Multipack Set
+Pattern
+Print of Pattern Type
+Surface Styling
+Number of Card Holders
+Number of ID Card Holder
+Number of Slip Pockets
+Coin Pocket Type
+Flap Type
+Number of Compartments
+Number of External Pockets
+Feature
+Warranty
+Length
+Water Resistance
+Number of Zips
+Sustainable
+Item Length (cm)
+Item Width (cm)
+Item Height (cm)
+Item Weight (gms)
+Packaging Length (cm)
+Packaging Width (cm)
+Packaging Height (cm)
+Packaging Weight (gms)
+Description
+Feature 1
+Feature 2
+Feature 4
+Feature 5
+MRP
+SP
+HSN
+Manufacturer Name & Address
+Front Image
+Side Image
+Back Image
+Detail Angle
+Look Shot Image
+Additional Image 1
+Additional Image 2

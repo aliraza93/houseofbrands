@@ -1,0 +1,46 @@
+Accessory Gift Set
+SKU
+Title
+Brand
+Type
+Brand Size
+Standard Size
+is Standard Size present on Label
+Brand Colour
+AgeGroup
+Prominent Colour
+Second Prominent Colour
+Third Prominent Colour
+FashionType
+Usage
+Year
+season
+Content
+Units Per Bundle
+Sustainable
+Belt Length (Inches)
+Item Length (cm)
+Item Width (cm)
+Item Height (cm)
+Item Weight (cm)
+Packaging Length (cm)
+Packaging Width (cm)
+Packaging Height (cm)
+Packaging Weight (gms)
+Description
+Feature 1
+Feature 2
+Feature 3
+Feature 4
+Feature 5
+MRP
+SP
+HSN
+Manufacturer Name & Address
+Front Image
+Side Image
+Back Image
+Detail Angle
+Look Shot Image
+Additional Image 1
+Address Image 2

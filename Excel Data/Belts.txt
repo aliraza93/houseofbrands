@@ -1,0 +1,50 @@
+Belts
+SKU
+Title
+Brand
+Type
+Brand Size
+Standard Size
+is Standard Size present on Label
+Brand Colour
+Age Group
+Prominent Colour
+Second Prominent Colour
+Third Prominent Colour
+Fashion Type
+Usage
+Year
+season
+Material
+Reversible
+Occasion
+Closure
+Pattern
+Multipack Set
+Belt Width
+Strechable
+Warranty
+Sustainable
+To Fit Waist (Inches)
+Belt Length (Inches)
+Width (cm)
+Packaging Length (cm)
+Packaging Width (cm)
+Packaging Height (cm)
+Packaging Weight (cm)
+Description
+Feature 1
+Feature 2
+Feature 3
+Feature 4
+Feature 5
+MRP
+SP
+HSN
+Manufacturer Name & Address
+Front Image
+Back Image
+Detail Angle
+Look Shot Image
+Additional Image 1
+Additional Image 2
